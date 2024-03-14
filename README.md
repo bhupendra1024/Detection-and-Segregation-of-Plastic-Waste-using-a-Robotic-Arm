@@ -14,6 +14,7 @@ camera and ultrasonic sensor, plastic waste is separated using a robotic arm by 
 inverse kinematics, controlled by the Raspberry Pi. The proposed system's performance was 
 evaluated using various custom datasets, and the results show that it can effectively detect and 
 segregate plastic waste from other types of waste materials.
+
 Index Terms— Waste management, Plastic segregation, YOLOV5, Object detection, Robotics, 
 Artificial Intelligence, Raspberry Pi 4.
 
